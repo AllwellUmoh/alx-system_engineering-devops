@@ -1,1 +1,1 @@
-Working on the 0x02-shell_redirections folder
+0-alias README File
