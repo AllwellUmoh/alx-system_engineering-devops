@@ -1,3 +1,0 @@
-README.md
-
-# Allwell Umoh
